@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Apercu-Pro-Regular.otf";
+  src: url("../fonts/Apercu-Pro-Regular.otf");
+}
+
+@font-face {
+  font-family: "Apercu-Pro-Medium.otf";
+  src: url("../fonts/Apercu-Pro-Medium.otf");
+}
+
+@font-face {
+  font-family: "Apercu-Bold.otf";
+  src: url("../fonts/Apercu-Bold.otf");
+}
+
+@font-face {
+  font-family: "Gilroy-Regular.otf";
+  src: url("../fonts/Gilroy-Regular.otf");
+}
+
+@font-face {
+  font-family: "Gilroy-Medium.otf";
+  src: url("../fonts/Gilroy-Medium.otf");
+}
+
+@font-face {
+  font-family: "Gilroy-Bold.otf";
+  src: url("../fonts/Gilroy-Bold.otf");
+}
+
+@font-face {
+  font-family: "Gilroy-SemiBold.otf";
+  src: url("../fonts/Gilroy-SemiBold.otf");
+}
+/*# sourceMappingURL=fonts.css.map */
